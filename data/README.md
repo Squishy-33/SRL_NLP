@@ -1,16 +1,11 @@
-# Data for the second NLP 2020 homework
+# Data for the NLP 2020 homework - SRL
 
 ## Warning
 The data included in this package is copyrighted:
 * DO NOT REDISTRIBUTE the data in any form.
 * DO NOT UPLOAD the data on GitHub, personal webpage.
 * DO NOT SHARE the data with anyone outside of the NLP 2020 course.
-You MUST follow the above rules even after the homework deadline(s).
 
-## Contents
-* `train.json`: the train dataset.
-* `dev.json`: the development/validation dataset.
-* `test.json`: the test dataset.
 
 ## Data format
 Each file is a JSON object organized as follows:
