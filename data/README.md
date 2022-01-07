@@ -1,10 +1,7 @@
 # Data for the NLP 2020 homework - SRL
 
 ## Warning
-The data included in this package is copyrighted:
-* DO NOT REDISTRIBUTE the data in any form.
-* DO NOT UPLOAD the data on GitHub, personal webpage.
-* DO NOT SHARE the data with anyone outside of the NLP 2020 course.
+The data included in this project is copyrighted and I'm not allowed to share it.
 
 
 ## Data format
